@@ -1,5 +1,0 @@
-br/edu/infnet/model/domain/Usuario.class
-br/edu/infnet/model/tests/UsuarioTest.class
-br/edu/infnet/model/data/UsuarioRepository.class
-br/edu/infnet/model/controller/UsuarioController.class
-Hello.class
