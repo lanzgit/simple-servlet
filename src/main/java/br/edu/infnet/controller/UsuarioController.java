@@ -33,6 +33,7 @@ public class UsuarioController extends HttpServlet {
 		repository.addUsuarios(usuario);
 
 		req.setAttribute("nomeDoUsuario", usuario.getNome());
+		req.setAttribute("emailDoUsuario", usuario.getEmail());
 		req.getRequestDispatcher("confirmacao.jsp").forward(req, resp);
 	}
 }
