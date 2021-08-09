@@ -1,0 +1,4 @@
+br/edu/infnet/data/UsuarioRepository.class
+br/edu/infnet/model/domain/Usuario.class
+br/edu/infnet/controller/UsuarioController.class
+br/edu/infnet/tests/UsuarioTest.class

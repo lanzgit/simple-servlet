@@ -1,6 +1,6 @@
-package br.edu.infnet.model.tests;
+package br.edu.infnet.tests;
 
-import br.edu.infnet.model.data.UsuarioRepository;
+import br.edu.infnet.data.UsuarioRepository;
 import br.edu.infnet.model.domain.Usuario;
 
 public class UsuarioTest {

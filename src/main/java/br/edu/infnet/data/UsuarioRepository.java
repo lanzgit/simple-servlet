@@ -1,4 +1,4 @@
-package br.edu.infnet.model.data;
+package br.edu.infnet.data;
 
 import java.util.ArrayList;
 import java.util.List;
